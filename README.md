@@ -27,7 +27,7 @@ and performance issues in your applications.
 * Try re-running the benchmark, but use the `--on-port` flag to run `autocannon`.
 
 ```sh
-clinic doctor --on-port 'autocannon http://localhost:$PORT' -- node code/hello-world/index.js
+clinic doctor --on-port 'autocannon http://localhost:$PORT' -- node hello-world/index.js
 ```
 Alternatively you can run it like so
 
