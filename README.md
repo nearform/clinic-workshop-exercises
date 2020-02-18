@@ -32,7 +32,7 @@ clinic doctor --on-port 'autocannon http://localhost:$PORT' -- node hello-world/
 Alternatively you can run it like so
 
 ```sh
-clinic doctor clinic doctor --autocannon [ / ] -- node code/hello-world/index.js
+clinic doctor --autocannon [ / ] -- node code/hello-world/index.js
 ```
 You can refer to the readme https://github.com/nearform/node-clinic for an example
 
