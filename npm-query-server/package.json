@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@nearform/compute-magic": "^1.0.0",
-    "fastify": "^1.9.0",
+    "fastify": "^3.1.1",
     "mongojs": "^3.1.0"
   }
 }
